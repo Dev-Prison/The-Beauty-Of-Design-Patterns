@@ -33,3 +33,6 @@
 | 2023.01.07 | [ch2.6-ch2.7.1 : 빈약한 도메인 모델에 기반한 전동적인 개발방식은 OOP를 위반하는가? / 추상클래스와 인터페이스](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/yonghoon/ch2-6.md) | 이용훈 | ... |
 | 2023.01.21 | [ch3.1-ch3.3.2 : 단일 책임 원칙 ~ 리스코프 치환 원칙과 다형성의 차이점](https://kimsumi.notion.site/CH3-1-CH3-3-2-00b65efc453140ef9d938935671f11d7) | 김수미 | ... |
 | 2023.02.18 | [ch3.3.3-ch3.6.1 : 리스코프 치환 원칙을 위반하는 안티 패턴 ~ KISS 원칙의 정의와 해석](https://morning-paprika-8fa.notion.site/3-3-3-3-6-1-5d4bcc47093f4df1b38c66a00dc9b85f) | 김형욱 | ... |
+| 2023.03.03 | [ch4 : 코딩 규칙](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch04/ch04_%EC%BD%94%EB%94%A9_%EA%B7%9C%EC%B9%99.md) | 이연우 | ... |
+| 2023.03.10 | [ch5.1-ch5.3.1 : 리팩터링의 네 가지 요소 ~ 테스트 가능한 코드를 작성하는 방법](https://kimsumi.notion.site/CH5-1-CH5-3-1-6262633eafcc4601b9fd2b3ad1b4ffcb?pvs=4) | 김수미 | ... |
+| 2023.03.17 | [ch5.3.2-ch5.5.6 : 테스트가 불가능한코드 ~ 단위 테스트 코드 작성을 위한 리팩토링](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch05/ch05_05_06_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81.md) | 이연우 | ... |
