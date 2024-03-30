@@ -47,6 +47,7 @@ class IdGeneratorV3Impl implements IdGeneratorV3 {
         return substrOfHostName;
     }
 
+
     protected String getLastSubStrSplitByDot(String hostName) {
         String substrOfHostName;
         String[] tokens = hostName.split("\\.");
