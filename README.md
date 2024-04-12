@@ -36,3 +36,5 @@
 | 2023.03.03 | [ch4 : 코딩 규칙](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch04/ch04_%EC%BD%94%EB%94%A9_%EA%B7%9C%EC%B9%99.md) | 이연우 |
 | 2023.03.10 | [ch5.1 - ch5.3.1 : 리팩터링의 네 가지 요소 ~ 테스트 가능한 코드를 작성하는 방법](https://kimsumi.notion.site/CH5-1-CH5-3-1-6262633eafcc4601b9fd2b3ad1b4ffcb?pvs=4) | 김수미 |
 | 2023.03.17 | [ch5.3.2 - ch5.5.6 : 테스트가 불가능한코드 ~ 단위 테스트 코드 작성을 위한 리팩토링](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch05/ch05_05_06_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81.md) | 이연우 |
+| 2023.03.24 | [ch5.5.7 - ch6.1.2 : 예외 처리를 위한 리팩터링 ~ 싱글턴 패턴의 구현](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/yonghoon/5.5.7.md) | 이용훈 |
+| 2023.04.07 | [ch6.1.3 - ch6.3.1 : 싱글턴 패턴의 적용 ~ 팩터리 패턴](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch06/ch060103_ch060301.md) | 이연우 |
