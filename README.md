@@ -39,5 +39,8 @@
 | 2024.03.24 | [ch5.5.7 - ch6.1.2 : 예외 처리를 위한 리팩터링 ~ 싱글턴 패턴의 구현](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/yonghoon/5.5.7.md) | 이용훈 |
 | 2024.04.07 | [ch6.1.3 - ch6.3.1 : 싱글턴 패턴의 적용 ~ 팩터리 패턴](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch06/ch060103_ch060301.md) | 이연우 |
 | 2024.04.21 | [ch6.3.2 - ch6.5.3 : 팩터리 메서드 패턴 ~ 빌더 패턴을 이용한 매개변수 검증](https://kimsumi.notion.site/CH6-3-2-CH6-5-3-2f18f9b43ffa48a7b41dbff72bc6934e) | 김수미 |
-| 2024.04.28 | [...]() | 이연우 |
-| 2024.05.05 | [...]() | 김수미 |
+| 2024.04.28 | [...]() | ... |
+| 2024.05.05 | [ch7.2.1 - ch7.3.4 : 데커레이터패턴 ~ 래퍼 패턴](https://kimsumi.notion.site/CH7-2-CH7-3-f25f638b4b80423cb7eddd02ec52d442) | 김수미 |
+| 2024.05.19 | [ch7.4.1 - ch7.7.2: 브릿지 패턴 ~ 플라이웨이트 패턴](https://github.com/Dev-Prison/The-Beauty-Of-Design-Patterns/blob/main/ynoolee/ch07/ch07_bridge_flyweight.md) | 이연우 | 2024.05.26 | [...]() | ... |
+| 2024.06.02 | [...]() | ... |
+| 2024.06.23 | [ch8.1.7 - ch8.3.3: EventBus 프레임워크 구현하기 ~ setClickListener 메서드](https://kimsumi.notion.site/CH8-1-7-CH8-3-3-603cfc6790954254bb010e7b609593ad?pvs=4) | 김수미 |
